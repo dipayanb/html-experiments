@@ -1,0 +1,21 @@
+{
+  "name": "html-experiments",
+  "version": "0.1.0",
+  "authors": [
+    "dipayanb <dipayan.bhowmick@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "datatables-bootstrap3": "*",
+    "datatables": "~1.9.4"
+  }
+}
